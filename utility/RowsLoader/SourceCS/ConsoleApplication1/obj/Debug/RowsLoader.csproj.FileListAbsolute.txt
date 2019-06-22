@@ -1,0 +1,11 @@
+D:\itog\utility\RowsLoader\ConsoleApplication1\bin\Debug\RowsLoader.exe.config
+D:\itog\utility\RowsLoader\ConsoleApplication1\bin\Debug\RowsLoader.exe
+D:\itog\utility\RowsLoader\ConsoleApplication1\bin\Debug\RowsLoader.pdb
+D:\itog\utility\RowsLoader\ConsoleApplication1\obj\Debug\RowsLoader.exe
+D:\itog\utility\RowsLoader\ConsoleApplication1\obj\Debug\RowsLoader.pdb
+D:\itog\utility\RowsLoader\SourceCS\ConsoleApplication1\bin\Debug\RowsLoader.exe.config
+D:\itog\utility\RowsLoader\SourceCS\ConsoleApplication1\obj\Debug\RowsLoader.exe
+D:\itog\utility\RowsLoader\SourceCS\ConsoleApplication1\obj\Debug\RowsLoader.pdb
+D:\itog\utility\RowsLoader\SourceCS\ConsoleApplication1\bin\Debug\RowsLoader.exe
+D:\itog\utility\RowsLoader\SourceCS\ConsoleApplication1\bin\Debug\RowsLoader.pdb
+D:\itog\utility\RowsLoader\SourceCS\ConsoleApplication1\obj\Debug\RowsLoader.csprojResolveAssemblyReference.cache
