@@ -33,17 +33,14 @@ Important case when dictionary don’t have information about Data in Fact table
 
 1.  How many users have made exactly 2 ratings?
 Answer: 12502
-
 2. Find the mean, median, mode, and range for number of ratings made for book (that's
 actually 4 tasks :-)
 total median answer: 0 
 total mode answer: 0 
 total mean answer: 2.86694747425375 
 lower and upper range answer: 0, 10 
-
 3 If you look for users and ratings, does Pareto principle hold?
 Yes defenetelly 19,94 % users made 84,45% of all bals
 
-
-##PS:
+## PS:
 Backup for SQL Server 2017(BookSrore.bak) published in DBBackups folder (https://github.com/semenovRuslan/DBBackups)
