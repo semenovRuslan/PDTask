@@ -42,4 +42,5 @@ lower and upper range answer: 0, 10
 Yes defenetelly 19,94 % users made 84,45% of all bals
 
 
-PS:Backup for SQL Server 2017 published in DBBakups file BookSrore.bak (https://github.com/semenovRuslan/DBBackups)
+#PS:
+Backup for SQL Server 2017(BookSrore.bak) published in DBBackups folder (https://github.com/semenovRuslan/DBBackups)
