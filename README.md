@@ -39,7 +39,7 @@ total median answer: 0
 total mode answer: 0 
 total mean answer: 2.86694747425375 
 lower and upper range answer: 0, 10 
-3 If you look for users and ratings, does Pareto principle hold?
+3. If you look for users and ratings, does Pareto principle hold?
 Yes defenetelly 19,94 % users made 84,45% of all bals
 
 ## PS:
