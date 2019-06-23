@@ -12,21 +12,24 @@ I started of by load data from site (BX-SQL-Dump.zip). I modifyed SQL Script for
 
 >RowsLoader.exe "D:\itog\data\BX-Book-Ratings_Data.sql" - load data BX-Book-RatingsData
 
-# Clear data (Script2_CleanData.sql):
+# Clear data 
+(Script2_CleanData.sql):
 
 We have a lot of mistakes in raw data which conflict with task’s conditions and human’s sense. I corrected these mistakes in script:
 1.	Correct symbol in string Key Fields for opportunities to join
 2.	Clear Doubled key in Dimensions
 3.	Modify Doubled key in Fact(AVG in task’s case) 
 
-# Load WH tables(Script3_LoadDimensionBook.sql; Script4_LoadDimensionUsers.sql; Script5_LoadFactRating.sql)
+# Load WH tables
+(Script3_LoadDimensionBook.sql; Script4_LoadDimensionUsers.sql; Script5_LoadFactRating.sql)
 
 This sort of tables  was made according to user’s requirements. When we use script to load this table we should 
 1.	to update data which exists in our Dim table
 2.	to insert New Data
 Important case when dictionary don’t have information about Data in Fact table. We have to use template and load this data in Dimension. When data comes late we just update row (1 st case of our activities)
 
-# Query Task (Task1.sql; Task2_mean.sql; Task2_median.sql; Task2_mode.sql; Task2_range.sql; Task3_pareto.sql ):
+# Query Task 
+(Task1.sql; Task2_mean.sql; Task2_median.sql; Task2_mode.sql; Task2_range.sql; Task3_pareto.sql ):
 
 1.  How many users have made exactly 2 ratings?
 Answer: 12502
