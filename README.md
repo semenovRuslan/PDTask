@@ -5,7 +5,7 @@ I started of by load data from site (BX-SQL-Dump.zip). I modifyed SQL Script for
 1.	Create DataBase(Script1_DateBaseCreate.sql)
 2.	I created Staging tables. We need this type of table, because sometimes data in source conflict with condition of task and we need to load data and after that work out them. 
 3.	In this table we add additional field for identifying record,  and do not create indexes.
-4.	I can’t  load data automatically because of special symbol which were in fields and wrong punctuality that’s why I created small utility which row  by row try to inserts data and shows which row consist errors for understanding reason of mistakes : (Project was added to letter)
+4.	I can’t  load data automatically because of special symbol which were in fields and wrong punctuality that’s why I created small utility which row  by row try to inserts data and shows which row consist errors for understanding reason of mistakes : (Project was added to folder UTILITY)
 >RowsLoader.exe "D:\itog\data\BX-Books_Data.sql" - load data BX-Books
 
 >RowsLoader.exe "D:\itog\data\BX-User_Data.sql" - load data BX-UsersData
@@ -40,3 +40,6 @@ lower and upper range answer: 0, 10
 
 3 If you look for users and ratings, does Pareto principle hold?
 Yes defenetelly 19,94 % users made 84,45% of all bals
+
+
+PS:Backup for SQL Server 2017 published in DBBakups file BookSrore.bak (https://github.com/semenovRuslan/DBBackups)
